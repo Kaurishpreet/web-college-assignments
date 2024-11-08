@@ -1,0 +1,117 @@
+practical 4a 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FashionHub</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header and Navigation -->
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">FashionHub</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Shop</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Welcome Section -->
+  <section class="jumbotron text-center text-white bg-dark mb-0">
+    <div class="container">
+      <h1 class="display-4">Explore the World of FashionHub</h1>
+      <p class="lead">Find unique styles, sustainable clothing, and exclusive collections designed to fit your lifestyle.</p>
+      <a class="btn btn-primary btn-lg" href="#">Discover More</a>
+    </div>
+  </section>
+
+  <!-- Highlights Section -->
+  <section class="highlights py-5">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-md-4">
+          <h3>Eco-Friendly Fabrics</h3>
+          <p>Our collection focuses on sustainability with eco-friendly materials and ethical production.</p>
+        </div>
+        <div class="col-md-4">
+          <h3>Global Styles</h3>
+          <p>From classic to contemporary, we bring together styles from around the world to inspire your wardrobe.</p>
+        </div>
+        <div class="col-md-4">
+          <h3>Express Delivery</h3>
+          <p>Enjoy fast, reliable delivery that brings your style essentials right to your doorstep.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Products Section -->
+  <section class="products py-5 bg-light">
+    <div class="container">
+      <h2 class="text-center mb-4">Shop Our Favorites</h2>
+      <div class="row">
+        <div class="col-md-4 text-center">
+          <img src="product1.jpeg" class="img-fluid mb-2" alt="Men's Parka">
+          <h3>Men's Parka</h3>
+          <p>Designed for comfort and durability, our parkas provide the perfect balance of warmth and style.</p>
+          <a class="btn btn-dark" href="#">Buy Now</a>
+        </div>
+        <div class="col-md-4 text-center">
+          <img src="product2.jpeg" class="img-fluid mb-2" alt="Women's Blouse">
+          <h3>Women's Blouse</h3>
+          <p>Elegant blouses crafted from organic cotton, perfect for any casual or formal setting.</p>
+          <a class="btn btn-dark" href="#">Buy Now</a>
+        </div>
+        <div class="col-md-4 text-center">
+          <img src="product3.jpeg" class="img-fluid mb-2" alt="Kids' Hoodie">
+          <h3>Kids' Hoodie</h3>
+          <p>Soft, comfortable hoodies for kids, made with gentle fabrics and fun designs they’ll love.</p>
+          <a class="btn btn-dark" href="#">Buy Now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call to Action Section -->
+  <section class="cta text-center text-white py-5 bg-secondary">
+    <div class="container">
+      <h2>Step Up Your Fashion Game!</h2>
+      <a class="btn btn-light btn-lg" href="#">Shop Now</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer bg-light text-center py-3">
+    <div class="container">
+      <p>&copy; 2023 FashionHub</p>
+      <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a>
+    </div>
+  </footer>
+
+  <!-- Scripts for Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
+</body>
+</html>
+
