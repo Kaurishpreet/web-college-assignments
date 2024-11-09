@@ -1,4 +1,4 @@
-practical 4a 
+ 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -71,19 +71,19 @@ practical 4a
       <h2 class="text-center mb-4">Shop Our Favorites</h2>
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="product1.jpeg" class="img-fluid mb-2" alt="Men's Parka">
+          <img src="c:\Users\Acer\Downloads\men parka.jpg" class="img-fluid mb-2" alt="Men's Parka">
           <h3>Men's Parka</h3>
           <p>Designed for comfort and durability, our parkas provide the perfect balance of warmth and style.</p>
           <a class="btn btn-dark" href="#">Buy Now</a>
         </div>
         <div class="col-md-4 text-center">
-          <img src="product2.jpeg" class="img-fluid mb-2" alt="Women's Blouse">
-          <h3>Women's Blouse</h3>
-          <p>Elegant blouses crafted from organic cotton, perfect for any casual or formal setting.</p>
+          <img src="c:\Users\Acer\Downloads\mwomen top.jpg" class="img-fluid mb-2" alt="Women's Blouse">
+          <h3>Women's tops</h3>
+          <p>Elegant tops crafted from organic cotton, perfect for any casual or formal setting.</p>
           <a class="btn btn-dark" href="#">Buy Now</a>
         </div>
         <div class="col-md-4 text-center">
-          <img src="product3.jpeg" class="img-fluid mb-2" alt="Kids' Hoodie">
+          <img src="c:\Users\Acer\Downloads\kids hoodies.webp" class="img-fluid mb-2" alt="Kids' Hoodie">
           <h3>Kids' Hoodie</h3>
           <p>Soft, comfortable hoodies for kids, made with gentle fabrics and fun designs they’ll love.</p>
           <a class="btn btn-dark" href="#">Buy Now</a>
@@ -114,4 +114,3 @@ practical 4a
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
 </body>
 </html>
-
